@@ -1,0 +1,20 @@
+<html>
+    <head>
+         <title>My first web page </title>
+         <style>
+            html{
+                font-size: 22px
+            }
+            body{
+                background-color: black;
+                    color: whitesmoke;
+        }
+         </style>
+    </head>
+    
+    <body>
+        <h1>Professor small !</h1>
+        <p>This is the awakening of a new era.</p>
+    </body>
+    
+</html>
