@@ -1,0 +1,16 @@
+body {
+background-color:cream;
+}
+
+h1 {
+color: navy;
+margin-left: 20px;font-family:comic,sans-serif;
+}
+h2 {
+color: magenta;
+margin-left: 15px;font-family:comic,sans-serif;
+}
+p {
+color: navy;
+margin-left: 10px;font-family:typewriter,sans-serif;
+}
